@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns="http://com.dinesh/customerXMLSchema">
+    <customerId>121</customerId>
+    <customerName>micheal</customerName>
+    <annualSalary>69999.0</annualSalary>
+    <dateOfBirth>2-18-2018</dateOfBirth>
+</customer>

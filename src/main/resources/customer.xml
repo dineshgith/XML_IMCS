@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:customer xmlns:tns="http://com.dinesh/customerXMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://com.dinesh/customerXMLSchema customerXMLSchema.xsd ">
+  <tns:customerId>0</tns:customerId>
+  <tns:customerName>tns:customerName</tns:customerName>
+  <tns:annualSalary>0.0</tns:annualSalary>
+  <tns:dateOfBirth>tns:dateOfBirth</tns:dateOfBirth>
+  <tns:address>
+    <tns:houseNo>0</tns:houseNo>
+    <tns:street>tns:street</tns:street>
+    <tns:city>tns:city</tns:city>
+    <tns:state>tns:state</tns:state>
+    <tns:zipCode>0</tns:zipCode>
+  </tns:address>
+  <tns:payment>
+    <tns:cardNo>0</tns:cardNo>
+    <tns:cardName>tns:cardName</tns:cardName>
+    <tns:dateFrom>tns:dateFrom</tns:dateFrom>
+    <tns:dateTo>tns:dateTo</tns:dateTo>
+    <tns:cardType>CREDIT CARD</tns:cardType>
+  </tns:payment>
+</tns:customer>
